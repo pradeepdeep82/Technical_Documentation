@@ -1,0 +1,12 @@
+ul{
+  list-style:square;
+}
+.col-sm-4>p{
+background-color:rgb(228, 176, 79);
+color: white;
+padding: 1px 15px 20px 15px;
+}
+.col-4>ul li{
+  border-bottom: 1px solid rgb(158, 156, 156);
+  list-style-position: inside;
+}
